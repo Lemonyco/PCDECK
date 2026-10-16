@@ -63,3 +63,6 @@ The private engineering repository currently contains the Windows companion, res
 ## Status
 
 PCDeck is an independent software project in active development. It is not affiliated with Elgato, Touch Portal, Microsoft, or other third-party products mentioned for comparison.
+## 🎬 Demo
+
+[▶ Watch the 30-second PCDeck demo](media/PCDeck_LinkedIn_30s_Showcase.mp4)
